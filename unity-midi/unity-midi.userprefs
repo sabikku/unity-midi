@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\UnityMidi\MidiFakeSequencer\Player\SequencePlayer.cs">
+    <Files>
+      <File FileName="Assets\UnityMidiExample\SimpleBeatListener.cs" Line="14" Column="2" />
+      <File FileName="Assets\UnityMidi\MidiFakeSequencer\Player\ITrackListener.cs" Line="4" Column="35" />
+      <File FileName="Assets\UnityMidi\MidiFakeSequencer\Player\PlayedTrack.cs" Line="8" Column="37" />
+      <File FileName="Assets\UnityMidi\MidiFakeSequencer\Player\SequencePlayer.cs" Line="21" Column="3" />
+      <File FileName="Assets\UnityMidiExample\ExampleBehaviour.cs" Line="57" Column="53" />
+      <File FileName="Assets\UnityMidiExample\Editor\MidiAssetFileCreatorEditorWindow.cs" Line="133" Column="88" />
+      <File FileName="Assets\UnityMidi\MidiFakeSequencer\SequenceAsset.cs" Line="9" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
